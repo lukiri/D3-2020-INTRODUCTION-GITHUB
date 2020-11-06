@@ -1,0 +1,35 @@
+section {
+ min-height: 60vh;
+
+ padding: 2em;
+/* Styls pour scetion01: Image */
+}
+
+blockquote {
+  margin-left: 3em
+  }
+
+#section-01{
+background: url('images/cigale01.jpg')
+top center no-repeat;
+background-size: cover;
+background-attachment: fixed;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+#section-02 h2 {
+text-align: center;
+margin-left: 60px;
+margin-right: 60px;
+}
+
+
+#section-03 p {
+ width:200px;
+ padding:40px;
+ margin:auto;
+ }
+
+/* STYLES SECTION 3 */

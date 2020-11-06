@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Semi+Condensed:wght@300&family=Bebas+Neue&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&display=swap');
+body{ font-family: 'Saira Condensed', sans-serif;
+
+}
+
+h1{
+  font-family: 'Anton', sans-serif;
+  margin-bottom: 1em;
+  font-size: 6em;
+}
+
+h2{ font-family: 'Bebas Neue', cursive;
+margin-top: 0.5em;
+margin-bottom:0.5em;
+font-size: 4em;
+}
+
+p{
+  font-family: 'Space Grotesk', sans-serif;
+}
